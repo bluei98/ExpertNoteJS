@@ -1,0 +1,9 @@
+{
+    "db": {
+        "host": "localhost",
+        "user": "<MySQL username>",
+        "password": "<MySQL password>",
+        "database": "sampledb",
+        "connectionLimit": 10
+    }
+}
